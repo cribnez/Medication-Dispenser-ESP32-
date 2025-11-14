@@ -23,11 +23,6 @@ El sistema busca mejorar la adherencia terapéutica en adultos mayores mediante 
 
 La aplicación compilada (`.apk`) para instalar en dispositivos Android se puede descargar desde la sección de **[Releases](https://github.com/tu-usuario/Medication-Dispenser-ESP32-UPChiapas/releases)** de este repositorio.
 
-## 👥 Créditos
-
-* **Desarrolladores:** Ana Gabriela Cabrera Ramírez, Omar Alexis Cueto Aguilar, Bruno Efraín Tirado Villarreal.
-* **Director y Asesor:** Dr. Christian Roberto Ibáñez Nangüelú.
-
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT.
