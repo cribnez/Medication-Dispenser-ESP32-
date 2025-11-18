@@ -32,13 +32,13 @@ Este proyecto se distribuye bajo la Licencia MIT.
 ## 📸 Galería del Proyecto
 
 <p align="center">
-  <img src="assets/prototipo_fisico.png" alt="Prototipo físico del dispensador inteligente" width="600">
+  <img src="assets/prototipo_fisico.png" alt="Prototipo físico del dispensador inteligente" width="300">
   <br>
   <em>Vista del prototipo físico y mecanismo de dispensación.</em>
 </p>
 
 <p align="center">
-  <img src="assets/interfaz_app.png" alt="Interfaz de la aplicación móvil de control" width="600">
+  <img src="assets/interfaz_app.png" alt="Interfaz de la aplicación móvil de control" width="300">
   <br>
   <em>Interfaz de la aplicación móvil para configuración y monitoreo.</em>
 </p>
